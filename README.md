@@ -6,8 +6,13 @@ VirTuex is an application that is used by people to help them try on clothes vir
 
 ![752336](https://user-images.githubusercontent.com/42516515/69616926-69211480-105d-11ea-90fa-ff501b07bce8.jpg)
 
+
+## How to run it 
+
 Website Courtesy:
 
 
 Author-Colorlib
+
+
 Licence: CC BY 3.0
